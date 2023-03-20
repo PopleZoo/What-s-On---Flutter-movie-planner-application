@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "E:\\_Flutter\\movies\\build\\shared_preferences_android\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\notification_bg_low_normal.9.png",
+        "source": "C:\\Users\\pople\\.gradle\\caches\\transforms-2\\files-2.1\\2ea0dd890d22f8c0abcf7622c5b74a85\\core-1.6.0\\res\\drawable-hdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "E:\\_Flutter\\movies\\build\\shared_preferences_android\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\notification_bg_low_pressed.9.png",
+        "source": "C:\\Users\\pople\\.gradle\\caches\\transforms-2\\files-2.1\\2ea0dd890d22f8c0abcf7622c5b74a85\\core-1.6.0\\res\\drawable-hdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "E:\\_Flutter\\movies\\build\\shared_preferences_android\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\notification_bg_normal_pressed.9.png",
+        "source": "C:\\Users\\pople\\.gradle\\caches\\transforms-2\\files-2.1\\2ea0dd890d22f8c0abcf7622c5b74a85\\core-1.6.0\\res\\drawable-hdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "E:\\_Flutter\\movies\\build\\shared_preferences_android\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\notification_bg_normal.9.png",
+        "source": "C:\\Users\\pople\\.gradle\\caches\\transforms-2\\files-2.1\\2ea0dd890d22f8c0abcf7622c5b74a85\\core-1.6.0\\res\\drawable-hdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "E:\\_Flutter\\movies\\build\\shared_preferences_android\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\notify_panel_notification_icon_bg.png",
+        "source": "C:\\Users\\pople\\.gradle\\caches\\transforms-2\\files-2.1\\2ea0dd890d22f8c0abcf7622c5b74a85\\core-1.6.0\\res\\drawable-hdpi-v4\\notify_panel_notification_icon_bg.png"
+    }
+]

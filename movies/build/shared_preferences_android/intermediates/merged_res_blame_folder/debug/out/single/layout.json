@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "E:\\_Flutter\\movies\\build\\shared_preferences_android\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
+        "source": "C:\\Users\\pople\\.gradle\\caches\\transforms-2\\files-2.1\\2ea0dd890d22f8c0abcf7622c5b74a85\\core-1.6.0\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "E:\\_Flutter\\movies\\build\\shared_preferences_android\\intermediates\\res\\merged\\debug\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\pople\\.gradle\\caches\\transforms-2\\files-2.1\\2ea0dd890d22f8c0abcf7622c5b74a85\\core-1.6.0\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "E:\\_Flutter\\movies\\build\\shared_preferences_android\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\pople\\.gradle\\caches\\transforms-2\\files-2.1\\2ea0dd890d22f8c0abcf7622c5b74a85\\core-1.6.0\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "E:\\_Flutter\\movies\\build\\shared_preferences_android\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\pople\\.gradle\\caches\\transforms-2\\files-2.1\\2ea0dd890d22f8c0abcf7622c5b74a85\\core-1.6.0\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "E:\\_Flutter\\movies\\build\\shared_preferences_android\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\pople\\.gradle\\caches\\transforms-2\\files-2.1\\2ea0dd890d22f8c0abcf7622c5b74a85\\core-1.6.0\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "E:\\_Flutter\\movies\\build\\shared_preferences_android\\intermediates\\res\\merged\\debug\\layout\\custom_dialog.xml",
+        "source": "C:\\Users\\pople\\.gradle\\caches\\transforms-2\\files-2.1\\2ea0dd890d22f8c0abcf7622c5b74a85\\core-1.6.0\\res\\layout\\custom_dialog.xml"
+    }
+]

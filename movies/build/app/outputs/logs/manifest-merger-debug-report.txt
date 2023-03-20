@@ -1,0 +1,118 @@
+-- Merging decision tree log ---
+application
+INJECTED from E:\_Flutter\movies\android\app\src\main\AndroidManifest.xml:3:4-40:19
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\pople\.gradle\caches\transforms-2\files-2.1\f4d9449baaa44d97fcd94cf301d83617\jetified-window-1.0.0-beta04\AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\pople\.gradle\caches\transforms-2\files-2.1\f4d9449baaa44d97fcd94cf301d83617\jetified-window-1.0.0-beta04\AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.core:core:1.6.0] C:\Users\pople\.gradle\caches\transforms-2\files-2.1\2ea0dd890d22f8c0abcf7622c5b74a85\core-1.6.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.6.0] C:\Users\pople\.gradle\caches\transforms-2\files-2.1\2ea0dd890d22f8c0abcf7622c5b74a85\core-1.6.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\pople\.gradle\caches\transforms-2\files-2.1\294b445d957b17d33d9f6335b20d44e8\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\pople\.gradle\caches\transforms-2\files-2.1\294b445d957b17d33d9f6335b20d44e8\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.6.0] C:\Users\pople\.gradle\caches\transforms-2\files-2.1\2ea0dd890d22f8c0abcf7622c5b74a85\core-1.6.0\AndroidManifest.xml:24:18-86
+	android:name
+		INJECTED from E:\_Flutter\movies\android\app\src\main\AndroidManifest.xml
+manifest
+ADDED from E:\_Flutter\movies\android\app\src\main\AndroidManifest.xml:1:1-41:12
+INJECTED from E:\_Flutter\movies\android\app\src\main\AndroidManifest.xml:1:1-41:12
+INJECTED from E:\_Flutter\movies\android\app\src\main\AndroidManifest.xml:1:1-41:12
+INJECTED from E:\_Flutter\movies\android\app\src\main\AndroidManifest.xml:1:1-41:12
+MERGED from E:\_Flutter\movies\android\app\src\main\AndroidManifest.xml:1:1-41:12
+MERGED from [:shared_preferences_android] E:\_Flutter\movies\build\shared_preferences_android\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\pople\.gradle\caches\transforms-2\files-2.1\4ddc961ba20e982f3479b3a44f3bfce7\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\pople\.gradle\caches\transforms-2\files-2.1\f4d9449baaa44d97fcd94cf301d83617\jetified-window-1.0.0-beta04\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\pople\.gradle\caches\transforms-2\files-2.1\a8bdadcbeed13b42b9aabd596df6b4b8\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\pople\.gradle\caches\transforms-2\files-2.1\d53c0ee71f3352e73f2093e53b22aab6\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\pople\.gradle\caches\transforms-2\files-2.1\feda74fec1e0aa7beaed094d2f90d63d\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\pople\.gradle\caches\transforms-2\files-2.1\7cc38c6cb06bd33781bf86b06a0b7d64\jetified-activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\pople\.gradle\caches\transforms-2\files-2.1\feafcbb43f0247fe1a90497c730423ad\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.6.0] C:\Users\pople\.gradle\caches\transforms-2\files-2.1\2ea0dd890d22f8c0abcf7622c5b74a85\core-1.6.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\pople\.gradle\caches\transforms-2\files-2.1\559f339187635a657aa1ee27e4d9bfef\lifecycle-runtime-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\pople\.gradle\caches\transforms-2\files-2.1\1abb0e20c62d00a5b406b667b5d85fcb\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\pople\.gradle\caches\transforms-2\files-2.1\b75e69274a865afbd2cd5f4d7126cee2\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\pople\.gradle\caches\transforms-2\files-2.1\7a0f6a9e0454877f2918ec445a3c6d52\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\pople\.gradle\caches\transforms-2\files-2.1\13a54f5fca99c95027aab67a424c14a7\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\pople\.gradle\caches\transforms-2\files-2.1\6bea67dcd431c86187c0941d8dadd651\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\pople\.gradle\caches\transforms-2\files-2.1\294b445d957b17d33d9f6335b20d44e8\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\pople\.gradle\caches\transforms-2\files-2.1\4255ed1efac02bc7097d3d524a287c09\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\pople\.gradle\caches\transforms-2\files-2.1\c18fd0a16baa6492e2f5a38f2506dc19\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
+INJECTED from E:\_Flutter\movies\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+INJECTED from E:\_Flutter\movies\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+INJECTED from E:\_Flutter\movies\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+	package
+		ADDED from E:\_Flutter\movies\android\app\src\main\AndroidManifest.xml:2:5-33
+		INJECTED from E:\_Flutter\movies\android\app\src\main\AndroidManifest.xml
+		INJECTED from E:\_Flutter\movies\android\app\src\debug\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\_Flutter\movies\android\app\src\main\AndroidManifest.xml
+		ADDED from E:\_Flutter\movies\android\app\src\main\AndroidManifest.xml:1:1-41:12
+		INJECTED from E:\_Flutter\movies\android\app\src\debug\AndroidManifest.xml
+	android:versionCode
+		INJECTED from E:\_Flutter\movies\android\app\src\main\AndroidManifest.xml
+		ADDED from E:\_Flutter\movies\android\app\src\main\AndroidManifest.xml:1:1-41:12
+		INJECTED from E:\_Flutter\movies\android\app\src\debug\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\_Flutter\movies\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-sdk
+INJECTED from E:\_Flutter\movies\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\_Flutter\movies\android\app\src\main\AndroidManifest.xml
+INJECTED from E:\_Flutter\movies\android\app\src\main\AndroidManifest.xml
+MERGED from [:shared_preferences_android] E:\_Flutter\movies\build\shared_preferences_android\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences_android] E:\_Flutter\movies\build\shared_preferences_android\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\pople\.gradle\caches\transforms-2\files-2.1\4ddc961ba20e982f3479b3a44f3bfce7\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\pople\.gradle\caches\transforms-2\files-2.1\4ddc961ba20e982f3479b3a44f3bfce7\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\pople\.gradle\caches\transforms-2\files-2.1\f4d9449baaa44d97fcd94cf301d83617\jetified-window-1.0.0-beta04\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\pople\.gradle\caches\transforms-2\files-2.1\f4d9449baaa44d97fcd94cf301d83617\jetified-window-1.0.0-beta04\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\pople\.gradle\caches\transforms-2\files-2.1\a8bdadcbeed13b42b9aabd596df6b4b8\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\pople\.gradle\caches\transforms-2\files-2.1\a8bdadcbeed13b42b9aabd596df6b4b8\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\pople\.gradle\caches\transforms-2\files-2.1\d53c0ee71f3352e73f2093e53b22aab6\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\pople\.gradle\caches\transforms-2\files-2.1\d53c0ee71f3352e73f2093e53b22aab6\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\pople\.gradle\caches\transforms-2\files-2.1\feda74fec1e0aa7beaed094d2f90d63d\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\pople\.gradle\caches\transforms-2\files-2.1\feda74fec1e0aa7beaed094d2f90d63d\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\pople\.gradle\caches\transforms-2\files-2.1\7cc38c6cb06bd33781bf86b06a0b7d64\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\pople\.gradle\caches\transforms-2\files-2.1\7cc38c6cb06bd33781bf86b06a0b7d64\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\pople\.gradle\caches\transforms-2\files-2.1\feafcbb43f0247fe1a90497c730423ad\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\pople\.gradle\caches\transforms-2\files-2.1\feafcbb43f0247fe1a90497c730423ad\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.6.0] C:\Users\pople\.gradle\caches\transforms-2\files-2.1\2ea0dd890d22f8c0abcf7622c5b74a85\core-1.6.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.6.0] C:\Users\pople\.gradle\caches\transforms-2\files-2.1\2ea0dd890d22f8c0abcf7622c5b74a85\core-1.6.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\pople\.gradle\caches\transforms-2\files-2.1\559f339187635a657aa1ee27e4d9bfef\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\pople\.gradle\caches\transforms-2\files-2.1\559f339187635a657aa1ee27e4d9bfef\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\pople\.gradle\caches\transforms-2\files-2.1\1abb0e20c62d00a5b406b667b5d85fcb\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\pople\.gradle\caches\transforms-2\files-2.1\1abb0e20c62d00a5b406b667b5d85fcb\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\pople\.gradle\caches\transforms-2\files-2.1\b75e69274a865afbd2cd5f4d7126cee2\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\pople\.gradle\caches\transforms-2\files-2.1\b75e69274a865afbd2cd5f4d7126cee2\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\pople\.gradle\caches\transforms-2\files-2.1\7a0f6a9e0454877f2918ec445a3c6d52\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\pople\.gradle\caches\transforms-2\files-2.1\7a0f6a9e0454877f2918ec445a3c6d52\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\pople\.gradle\caches\transforms-2\files-2.1\13a54f5fca99c95027aab67a424c14a7\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\pople\.gradle\caches\transforms-2\files-2.1\13a54f5fca99c95027aab67a424c14a7\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\pople\.gradle\caches\transforms-2\files-2.1\6bea67dcd431c86187c0941d8dadd651\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\pople\.gradle\caches\transforms-2\files-2.1\6bea67dcd431c86187c0941d8dadd651\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\pople\.gradle\caches\transforms-2\files-2.1\294b445d957b17d33d9f6335b20d44e8\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\pople\.gradle\caches\transforms-2\files-2.1\294b445d957b17d33d9f6335b20d44e8\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\pople\.gradle\caches\transforms-2\files-2.1\4255ed1efac02bc7097d3d524a287c09\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\pople\.gradle\caches\transforms-2\files-2.1\4255ed1efac02bc7097d3d524a287c09\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\pople\.gradle\caches\transforms-2\files-2.1\c18fd0a16baa6492e2f5a38f2506dc19\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\pople\.gradle\caches\transforms-2\files-2.1\c18fd0a16baa6492e2f5a38f2506dc19\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+INJECTED from E:\_Flutter\movies\android\app\src\debug\AndroidManifest.xml
+INJECTED from E:\_Flutter\movies\android\app\src\debug\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\_Flutter\movies\android\app\src\main\AndroidManifest.xml
+		INJECTED from E:\_Flutter\movies\android\app\src\debug\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\_Flutter\movies\android\app\src\main\AndroidManifest.xml
+		INJECTED from E:\_Flutter\movies\android\app\src\debug\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from E:\_Flutter\movies\android\app\src\debug\AndroidManifest.xml:6:5-66
+	android:name
+		ADDED from E:\_Flutter\movies\android\app\src\debug\AndroidManifest.xml:6:22-64
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\pople\.gradle\caches\transforms-2\files-2.1\f4d9449baaa44d97fcd94cf301d83617\jetified-window-1.0.0-beta04\AndroidManifest.xml:25:9-27:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\pople\.gradle\caches\transforms-2\files-2.1\f4d9449baaa44d97fcd94cf301d83617\jetified-window-1.0.0-beta04\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\pople\.gradle\caches\transforms-2\files-2.1\f4d9449baaa44d97fcd94cf301d83617\jetified-window-1.0.0-beta04\AndroidManifest.xml:26:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\pople\.gradle\caches\transforms-2\files-2.1\f4d9449baaa44d97fcd94cf301d83617\jetified-window-1.0.0-beta04\AndroidManifest.xml:28:9-30:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\pople\.gradle\caches\transforms-2\files-2.1\f4d9449baaa44d97fcd94cf301d83617\jetified-window-1.0.0-beta04\AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\pople\.gradle\caches\transforms-2\files-2.1\f4d9449baaa44d97fcd94cf301d83617\jetified-window-1.0.0-beta04\AndroidManifest.xml:29:13-51
