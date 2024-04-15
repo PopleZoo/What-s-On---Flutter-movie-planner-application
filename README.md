@@ -1,0 +1,2 @@
+A mobile application that can helps users organize and track the movies they want to watch and those they've already seen. Users can browse through popular movies and TV shows, search for specific titles, and add movies to their watchlist or mark them as watched, the app also provides an intuitive interface for movie enthusiasts to plan and enjoy movie nights with friends and family.
+Developed using Flutter and Dart programming languages, with the Provider package for state management.
